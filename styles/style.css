@@ -7,4 +7,45 @@ light blue: #1c5380
 body {
   font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
+  
 }
+nav{
+  background-color:#06365f ;
+  width: 100%;
+  height: 400px;
+  display: flex;
+  flex-direction: row;
+  
+}
+nav > img{
+width: 300px;
+background-size: cover;
+height: 80px;
+align-items: center;
+padding-left: 550px;
+padding-right: auto;
+padding-top: 200px;
+}
+nav > a {
+  padding-left: 40px;
+  padding-right: 300px;
+  padding-top: 230px;
+  color: white;
+  
+}
+.phone-img > img {
+ margin-top: -210px;
+ margin-left: 190px  ;
+ 
+}
+.box-text{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  float: right;
+  background-color: white;
+  margin-top: -70px;
+  margin-right: 160px ;
+  
+}
+
