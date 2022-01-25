@@ -33,19 +33,69 @@ nav > a {
   color: white;
   
 }
-.phone-img > img {
- margin-top: -210px;
- margin-left: 190px  ;
- 
+
+ h1{
+  color:#1c5380 ;
+  width: 400px;
 }
-.box-text{
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  float: right;
-  background-color: white;
-  margin-top: -70px;
-  margin-right: 160px ;
+#section1 {
+
+  margin-top: -100px;
   
 }
+#section1 img{
+  margin-left: 110px;
+  margin-top: -100px;
+ 
+}
+#section1  .box-text{
+  display: inline;
+  float:right;
+ width: 30%;
+ background-color: white;
+ border-top-right-radius: 5px;
+ border-top-left-radius: 5px;
+ margin-right: 390px;
 
+}
+.box1 {
+  display: inline;
+ width: 50%;
+ float: left;
+ margin-left: -100px;
+ margin-top: 55px;
+  
+}
+.box2 {
+  display: inline;
+ width: 30%;
+ float: right;
+ margin-top: 55px;
+ margin-right: 180px;
+}
+.box-text p{
+  margin-top: -20px;
+}
+
+footer{
+  display:inline;
+  clear: both;
+  text-align: center;
+  color: #1c5380;
+  
+}
+footer ul li {
+  display: inline;
+    margin-right: 50px;
+    padding: 0px;
+    font-size: 10px ;
+    color: ;
+}
+
+footer ul li a {
+  margin: -15px;
+}
+
+footer ul .color {
+  color: gainsboro;
+}
